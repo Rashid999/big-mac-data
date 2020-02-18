@@ -1,5 +1,7 @@
 # The Big Mac index
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/betatim/big-mac-data/add-environment?filepath=Big%20Mac%20data%20generator.ipynb)
+
 This repository contains the data behind _The Economist’s_ Big Mac index, and code that shows how we calculate it. To download the data, go to the [latest release][latest release], where you can download the index data in a CSV or Excel, or the [code behind it][notebook link].
 
 ## Source data
